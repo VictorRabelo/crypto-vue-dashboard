@@ -1,25 +1,26 @@
 # Crypto Vue Dashboard
 
-A professional and animated cryptocurrency dashboard built with Vue.js 3, showing real-time crypto prices and variation charts using the CoinGecko API and ApexCharts.
+A professional and animated cryptocurrency dashboard built with Vue.js 3. This application displays real-time cryptocurrency prices and dynamic variation charts using the CoinGecko API and ApexCharts. Designed with a modern and responsive UI, it includes smooth animations and is structured using clean code best practices. The project is also prepared for the future implementation of an authentication system.
 
-## \ud83d\ude80 Features
+## 🚀 Features
 
-- Real-time cryptocurrency prices
-- Interactive price charts
-- Responsive and modern UI with smooth animations
-- Built using Vue 3 Composition API + TailwindCSS
-- Future-ready structure for authentication system
+- Live cryptocurrency prices with auto-refresh
+- Interactive charts showing historical price data
+- Responsive design compatible with all devices
+- Clean and modular codebase using Composition API
+- Smooth UI animations for enhanced user experience
+- Authentication-ready structure (not yet implemented)
 
-## \ud83d\udcbb Tech Stack
+## 💻 Tech Stack
 
-- Vue 3
-- Vite
-- TailwindCSS
-- ApexCharts
-- Axios
-- CoinGecko API
+- Vue 3 (Composition API + <script setup>)
+- Vite (for fast development and bundling)
+- TailwindCSS (utility-first CSS framework)
+- ApexCharts (for real-time data visualization)
+- Axios (for HTTP requests)
+- CoinGecko API (free public API)
 
-## \ud83d\udce6 Installation
+## 📦 Installation
 
 ```bash
 # Clone the repository
@@ -29,10 +30,10 @@ cd crypto-vue-dashboard
 # Install dependencies
 npm install
 
-# Run the app
+# Start the development server
 npm run dev
 ```
 
-## \ud83d\udcf8 Preview
+## 📸 Preview
 
 Screenshots coming soon.
